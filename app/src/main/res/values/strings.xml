@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">SandaliasHavaianas</string>
+    <string name="action_settings">Settings</string>
+    <string name="acao_favorito">Favorito</string>
+    <string name="title_activity_fragment_activity_havaiana">Havaiana</string>
+    <string name="msg_sem_conexao">Sem conexão de dados no momento.</string>
+    <string name="msg_erro_geral">Erro ao baixar informação do servidor.</string>
+</resources>
